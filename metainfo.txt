@@ -2,7 +2,7 @@ Name of QuantLet : 'AdaBoost_P2PL'
 
 
 
-Published in : 'Metis' 
+Published in : 'Boosting Courselet Quantinar.com' 
 
 
 
@@ -11,9 +11,9 @@ Description : 'AdaBoost classification model for defaults of P2P loans. Compares
 
 
 
-Keywords : 'Boosting, AdaBoost, classification, logistic regression'
+Keywords : 'Boosting, AdaBoost, classification, logistic regression, Gradient Boosting, XGBoost'
 
 
 
 
-Author : 'Konstantin Häusler'
+Author : 'Konstantin Häusler, Wolfgang Karl Härdle, Xiaorui ZUO'
