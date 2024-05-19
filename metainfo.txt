@@ -6,7 +6,7 @@ Published in : 'Boosting Courselet Quantinar.com'
 
 
 
-Description : 'AdaBoost classification model for defaults of P2P loans. Compares the out-of-sample predictive performance to a baseline logistic regression model.'
+Description : 'AdaBoost classification model for defaults of P2P loans. Compares the out-of-sample predictive performance to a baseline logistic regression model. Make sure that XGBoost is installed'
 
 
 
